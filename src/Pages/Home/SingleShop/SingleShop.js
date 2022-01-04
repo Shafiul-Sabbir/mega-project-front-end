@@ -16,7 +16,7 @@ const SingleShop = ({product}) => {
                <div className=" mb-4 item-card">
                <img src={img} className="card-img-top" alt="..." />
                <div className="card-body d-flex justify-content-between">
-               <p className="card-text fw-bold">{title}</p>
+               <p className="card-text fw-bold">Title: {title}</p>
                <p className="card-text">$ {price}</p>
                </div>
                <div className="book-section">
