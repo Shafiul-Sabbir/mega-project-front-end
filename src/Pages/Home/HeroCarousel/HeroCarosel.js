@@ -34,7 +34,7 @@ const HeroCarosel = () => {
                     <h1 className="sub-title">COLLECTION</h1>
                     <h1 className="main-title">NEED DAILY PRODUCTS</h1>
                     <p className="para-text">Here your's every days valuable products with money back guarantee just buy some products with justify</p>
-                    <Link to="shop"><button className="shop-btn">SHOP NOW</button></Link>
+                    <Link to="shop/:id"><button className="shop-btn">SHOP NOW</button></Link>
                </div>
               </div>
          </div>
