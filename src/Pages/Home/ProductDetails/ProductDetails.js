@@ -6,6 +6,9 @@ import "aos/dist/aos.css";
 import { useForm } from 'react-hook-form';
 import useAuth from '../../../hooks/useAuth';
 
+
+//this component is working
+
 const ProductDetails = () => {
      const {user} = useAuth()
      const {id} = useParams()

@@ -8,6 +8,9 @@ import Reviews from '../Reviews/Reviews';
 import Shop from '../Shop/Shop';
 
 
+//hero is banner, allproducts are featured in shop section, mapbox is used in contact form
+
+
 const Home = () => {
      return (
           <div>

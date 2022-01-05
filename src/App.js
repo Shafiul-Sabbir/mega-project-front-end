@@ -22,6 +22,8 @@ import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import Footer from './Pages/Shared/Footer/Footer';
 
 
+// wrap with context
+
 function App() {
   return (
     <div>
